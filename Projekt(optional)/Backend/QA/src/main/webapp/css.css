@@ -1,0 +1,124 @@
+#titleBox{
+    position: absolute;
+    width: 72em;
+    height:4em;
+    background-color: lightcyan; 
+    border: 0.3em solid activecaption;
+}
+
+#title{
+    position:absolute;
+    left:14em;
+}
+
+#subtitleBox{
+    position: absolute;
+    width: 61em;
+    height:4em;
+    top:5em;
+    background-color: lightgreen;
+    border: 0.3em solid activecaption;
+}
+#subtitle{
+    position:absolute;
+    left:2em;
+}
+#navigationBox{
+    position:absolute;
+    top:5em;
+    left:62em;
+    width: 15.5em;
+    height: 60em;
+    background-color: lightgreen;
+    border: 0.3em solid activecaption;
+}
+
+.login{
+    position: absolute;
+    left:1em;
+}
+#username{
+    top:1em;
+}
+#password{
+    top:3em;
+}
+#login{
+    top:0.5em;
+    width:11em;
+}
+
+#frageErstellenButton{
+    top:15em;
+    width:11em;
+}
+
+#Questions{
+    position:absolute;
+    top: 10em;
+    width: 40em;
+}
+
+#frageErstellenTitel{
+    position:absolute;
+    height: 3em;
+    width:50em;
+    left: 1em;
+}
+#allQuestionsButton{
+	top:13em;
+	width:11em;
+}
+#getMyQuestion{
+	top: 17em;
+	width: 11em;
+}
+
+#getMyAnswer{
+	top:19em;
+	width:11em;
+}
+#frageErstellenFrage{
+    position:absolute;
+    left:1em;
+    top:5em;
+    height: 25em;
+    width:52em;
+}
+
+#frageErstellenSubmit{
+    position:absolute;
+    left: 55em;
+    height: 4em;
+    width:14em;
+}
+.AlleFragen{
+	position:absolute;
+	top:2em;
+	width:16em;
+}
+
+#getUnsolvedQuestion{
+	left:40em;
+}
+
+#getUnansweredQuestion{
+	left:56em;
+}
+
+#initialiceDB{
+	position:absolute;
+	top: 70em;
+}
+#loginForm{
+	position:absolute;
+	left:-0.5em;
+}
+#registerForm{
+	position:absolute;
+	left: 0.7em;
+	top:5.5em;
+}
+#register{
+	width:11em;
+}

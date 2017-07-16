@@ -1,0 +1,1 @@
+java -jar QA-1.war
